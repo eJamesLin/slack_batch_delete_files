@@ -10,3 +10,5 @@ Usage:
 ```
 ruby slack_delete.rb
 ```
+
+forked and modified based on https://gist.github.com/jamescmartinez/909401b19c0f779fc9c1
